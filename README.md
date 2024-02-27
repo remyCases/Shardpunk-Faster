@@ -2,7 +2,7 @@
 
 ## Description
 
-*WIP*
+Have you ever wanted to increase your squad movespeed ? Say no more, it's the mod you need.
 
 ## Installation
 
